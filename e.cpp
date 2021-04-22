@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 using namespace std;
 
@@ -15,4 +16,10 @@ int main()
     cout << firstNumber << " + " <<  secondNumber << " = " << sumOfTwoNumbers;     
 
     return 0;
+=======
+class e
+{
+
+
+>>>>>>> register
 }
